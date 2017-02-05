@@ -1,0 +1,10 @@
+#file types
+*.DS_Store
+
+#specific files
+
+#specific folders
+GameOfLife/Bin
+GameOfLife/Obj
+GameOfLife/Content/Bin
+GameOfLife/Content/Obj
